@@ -1,4 +1,30 @@
 html, body {
   height: 100%;
   width: 100%;
+  margin: 0;
+}
+
+header{
+  margin-top: 0px;
+  background: #BCC0DE;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0px;
+  padding: 50px;
+}
+
+main{
+  background: #FAF0D7;
+  width: 700px;
+  margin: 20px 0 20px 40px;
+  padding: 20px;
+  border: 3px solid #F4BFBF;
+}
+
+footer{
+  background: #FFD9C0;
+  padding: 30px;
+  text-align: center;
 }
