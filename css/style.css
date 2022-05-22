@@ -18,9 +18,10 @@ h1 {
 main{
   background: #FAF0D7;
   width: 700px;
-  margin: 20px 0 20px 40px;
+ /* margin: 20px 0 20px 40px; */
   padding: 20px;
   border: 3px solid #F4BFBF;
+  margin: 20px auto;
 }
 
 footer{
